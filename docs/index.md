@@ -13,6 +13,3 @@
 
 - http://merltech.org/blockchain-for-international-development-using-a-learning-agenda-to-address-knowledge-gaps/
 - [NIST Report](https://webcache.googleusercontent.com/search?q=cache:SzDDhGMLg5sJ:https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf+&cd=1&hl=en&ct=clnk&gl=us)
-
-#### Source
- - https://github.com/wslack/beware-of-blockchain/blob/master/docs/index.md
